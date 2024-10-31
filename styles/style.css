@@ -4,7 +4,7 @@
 .header {
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
-    padding: 93px 50px 97px ; 
+    padding: 93px 50px 97px; 
     align-items: center;
 }
 
@@ -259,7 +259,7 @@
     justify-items: start;
 }
 
-.footer__menu  {
+.footer__menu {
     justify-self: center;
 }
 
@@ -269,12 +269,11 @@
     text-align: center; 
 }
 
-
 .footer__menu-list-item {
     text-underline-offset: 4px;
 }
 
-.footer__menu-link_active{
+.footer__menu-link_active {
     text-decoration: none;
 }
 
