@@ -19,7 +19,7 @@
     text-underline-offset: 5px;
 }
 
-.header__links-list-item:first-child { 
+.header__links-list-item:first-child {
     list-style: none;
 }
 
